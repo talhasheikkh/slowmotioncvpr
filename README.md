@@ -1,4 +1,4 @@
-# Zooming-Slow-Mo (CVPR-2020)
+# Slowmotiion VTRG (CVPR-2020)
 
 By [Xiaoyu Xiang<sup>\*</sup>](https://engineering.purdue.edu/people/xiaoyu.xiang.1), [Yapeng Tian<sup>\*</sup>](http://yapengtian.org/), [Yulun Zhang](http://yulunzhang.com/), [Yun Fu](http://www1.ece.neu.edu/~yunfu/), [Jan P. Allebach<sup>+</sup>](https://engineering.purdue.edu/~allebach/), [Chenliang Xu<sup>+</sup>](https://www.cs.rochester.edu/~cxu22/) (<sup>\*</sup> equal contributions, <sup>+</sup> equal advising)
 
