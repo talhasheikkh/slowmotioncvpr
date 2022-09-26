@@ -45,7 +45,7 @@ DCAN is a recently proposed joint video frame interpolation (VFI) and video supe
 
 DCAN achieves state-of-the-art performance by PSNR and SSIM in Vid4, Vimeo test sets.
 
-![framework](./dump/ds.png)
+![framework](./dump/ds.PNG)
 
 ## Prerequisites
 
