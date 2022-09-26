@@ -50,7 +50,7 @@ Zooming Slow-Mo is a recently proposed joint video frame interpolation (VFI) and
 
 In Zooming Slow-Mo, we firstly temporally interpolate features of the missing LR frame by the proposed feature temporal interpolation network. Then, we propose a deformable ConvLSTM to align and aggregate temporal information simultaneously. Finally, a deep reconstruction network is adopted to predict HR slow-motion video frames. If our proposed architectures also help your research, please consider citing our paper.
 
-Zooming Slow-Mo achieves state-of-the-art performance by PSNR and SSIM in Vid4, Vimeo test sets.
+DCAN achieves state-of-the-art performance by PSNR and SSIM in Vid4, Vimeo test sets.
 
 ![framework](./dump/ds.pmg)
 
