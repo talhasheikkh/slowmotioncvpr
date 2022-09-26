@@ -52,7 +52,7 @@ In Zooming Slow-Mo, we firstly temporally interpolate features of the missing LR
 
 Zooming Slow-Mo achieves state-of-the-art performance by PSNR and SSIM in Vid4, Vimeo test sets.
 
-![framework](./dump/framework.png)
+![framework](./dump/New model.jpg)
 
 ## Prerequisites
 
