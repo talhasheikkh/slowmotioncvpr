@@ -196,7 +196,6 @@ The [test.py](codes/test.py) script also provides modes for evaluation on the fo
 
 ### Colab Notebook
 
-PyTorch Colab notebook (provided by [@HanClinto](https://github.com/HanClinto)): [HighResSlowMo.ipynb](https://gist.github.com/HanClinto/49219942f76d5f20990b6d048dbacbaf)
 
 ## Citations
 
@@ -239,16 +238,6 @@ If you find the code helpful in your resarch or work, please cite the following 
 }
 ```
 
-## Contact
-
-[Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1) and [Yapeng Tian](http://yapengtian.org/).
-
-You can also leave your questions as issues in the repository. We will be glad to answer them.
-
-## License
-
-This project is released under the [GNU General Public License v3.0](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020/blob/master/LICENSE).
-
 ## Acknowledgments
 
-Our code is inspired by [TDAN-VSR](https://github.com/YapengTian/TDAN-VSR) and [EDVR](https://github.com/xinntao/EDVR).
+Our code is inspired by [Zooming SLow-Mo](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020))
