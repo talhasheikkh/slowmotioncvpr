@@ -24,9 +24,6 @@ This is the official Pytorch implementation of _DCAN:Deep Consecutive Attention 
 
 ## Updates
 
-- 2020.3.13 Add meta-info of datasets used in this paper
-- 2020.3.11 Add new function: video converter
-- 2020.3.10: Upload the complete code and pretrained models
 
 ## Contents
 
@@ -44,15 +41,11 @@ This is the official Pytorch implementation of _DCAN:Deep Consecutive Attention 
 
 ## Introduction
 
-The repository contains the entire project (including all the preprocessing) for one-stage space-time video super-resolution with Zooming Slow-Mo.
-
 DCAN is a recently proposed joint video frame interpolation (VFI) and video super-resolution (VSR) method, which directly synthesizes an HR slow-motion video from an LFR, LR video. 
-
-
 
 DCAN achieves state-of-the-art performance by PSNR and SSIM in Vid4, Vimeo test sets.
 
-![framework](./dump/ds.pmg)
+![framework](./dump/ds.png)
 
 ## Prerequisites
 
