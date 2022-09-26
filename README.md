@@ -1,9 +1,9 @@
 # Slowmotion VTRG (CVPR-2020)
 
 
-This is the official Pytorch implementation of _Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution_.
+This is the official Pytorch implementation of _DCAN:Deep Consecutive Attention Network for Video Super Resolution_.
 
-#### [Paper](https://arxiv.org/abs/2002.11616) |
+#### [Paper]() |
 
 <table>
   <thead>
@@ -52,7 +52,7 @@ In Zooming Slow-Mo, we firstly temporally interpolate features of the missing LR
 
 Zooming Slow-Mo achieves state-of-the-art performance by PSNR and SSIM in Vid4, Vimeo test sets.
 
-![framework](./dump/New model.jpg)
+![framework](./dump/ds.pmg)
 
 ## Prerequisites
 
