@@ -1,4 +1,4 @@
-# Slowmotion VTRG (CVPR-2020)
+# DCAN_VTRG
 
 
 This is the official Pytorch implementation of _DCAN:Deep Consecutive Attention Network for Video Super Resolution_.
@@ -146,7 +146,7 @@ Vimeo7_train.lmdb
 
 1. Configure your training settings that can be found at [options/train](./codes/options/train). Our training settings in the paper can be found at [train_zsm.yml](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020/blob/master/codes/options/train/train_zsm.yml). We'll take this setting as an example to illustrate the following steps.
 
-2. Train the Zooming Slow-Mo model.
+2. Train the DCAN model.
 
 ```Shell
 python train.py -opt options/train/train_zsm.yml
